@@ -24,6 +24,7 @@ html {
   grid-column: 2/3;
   display: grid;
   grid-template-rows: 1fr 1fr;
+  margin-bottom: 20px;
 }
 .header-top {
   display: grid;
